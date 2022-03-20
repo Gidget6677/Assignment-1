@@ -1,0 +1,23 @@
+html,body{
+  background: #194231218;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  color: #121812;
+}
+
+p {
+  font-size: 1em;
+  line-height: normal;
+  margin-bottom: 20px;
+  color: #121812
+}
+
+h1{
+  border-bottom: 1px solid #194231218;
+  padding: 20px 0 0;
+}
+
+h2 {
+  font-size: 20px;
+  padding: 20px 0 0;
+}
